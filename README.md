@@ -53,3 +53,8 @@ Classification Report:
 | **Accuracy**|           |        | **0.96** | 705     |
 | Macro Avg   | 0.96      | 0.96   | 0.96     | 705     |
 | Weighted Avg| 0.96      | 0.96   | 0.96     | 705     |
+
+## Testing on 20 Images
+To further validate the model's performance, we tested it on a separate set of 20 images. The results were as follows:
+- **Correct Predictions**: 18
+- **Incorrect Predictions**: 2
