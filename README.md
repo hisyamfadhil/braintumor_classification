@@ -29,9 +29,6 @@ After training, the model achieved the following evaluation metrics on the testi
 ### Model Evaluation on Testing Data
 To evaluate the performance of the model in classifying brain tumor types, we used the Confusion Matrix and Classification Report.
 
-### Confusion Matrix
-![Confusion Matrix](path_to_confusion_matrix_image)
-
 ### Classification Report
 
 So in this project, we developed a machine learning model that is able to classify brain tumor types based on MRI images. This model uses a Convolutional Neural Network (CNN) architecture that is specifically designed for classification tasks. This model has four convolutional layers equipped with BatchNormalization and MaxPooling. This model is trained using a dataset that has been preprocessed through augmentation and normalization, so that it can produce accurate predictions for brain tumor types. We also trained our model with 30 epochs and after that we obtained the following results:
